@@ -1,0 +1,8 @@
+<resources>
+
+    <dimen name="title">17dp</dimen>
+    <dimen name="joketitle">20dp</dimen>
+    <dimen name="joketitleheader">15dp</dimen>
+    <dimen name="jokemargin">10dp</dimen>
+
+</resources>

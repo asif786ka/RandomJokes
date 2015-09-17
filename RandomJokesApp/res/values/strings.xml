@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RandomJokes</string>
+    <string name="action_settings">Settings</string>
+    <string name="joke_content"> Get ready to laugh every 5 seconds !! </string>
+    <string name="joke_title"> Laughing every 5 seconds is great for health but polling server every 5 seconds is bad for health !! </string>
+    
+
+</resources>
